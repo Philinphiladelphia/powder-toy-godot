@@ -13,7 +13,7 @@ void initialize_powder_toy_module(ModuleInitializationLevel p_level) {
 		return;
 	}
 
-	GDREGISTER_CLASS(GDExample);
+	GDREGISTER_CLASS(PowderToy);
 }
 
 void uninitialize_powder_toy_module(ModuleInitializationLevel p_level) {

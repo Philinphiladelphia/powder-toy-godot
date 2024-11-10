@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/powder_toy_test.dir/src/powder_toy_test.cpp.o -o powder_toy_test   -L/home/phil/Desktop/powder_toy_godot/test/../lib  -Wl,-rpath,/home/phil/Desktop/powder_toy_godot/test/../lib ../../lib/libpowder.so libpowder_toy_interface.a lib/libgtest_maind.a -ljsoncpp lib/libgtestd.a 

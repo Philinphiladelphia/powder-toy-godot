@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpowder_toy_interface.a CMakeFiles/powder_toy_interface.dir/home/phil/Desktop/powder_toy_godot/src/powder_toy_interface.cpp.o
+/usr/bin/ranlib libpowder_toy_interface.a
